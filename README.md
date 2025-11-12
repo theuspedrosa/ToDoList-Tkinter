@@ -35,7 +35,7 @@ O aplicativo permite adicionar, remover e limpar tarefas de forma prática e vis
    git clone https://github.com/theuspedrosa/ToDoList-Tkinter.git
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd todo-list-tkinter
+   cd ToDo-list-tkinter
 3. **Execute o script principal:**
    ```bash
    python todo_list.py
